@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "663d87105985a95a972f864c"
+  },
+  "Largo_cancha": 28,
+  "Ancho_cancha": 15,
+  "Grosor_linea": 0.05,
+  "Linea_tres": 6.75,
+  "Tiro_libre_fondo": 5.8,
+  "tiro_libre_canasta": 4.6,
+  "Circulo_central": 3.6,
+  "Altura_canasta": 3.05,
+  "Alto_tablero": 1.05,
+  "Largo_tablero": 1.8,
+  "Largo_rectangulo_intero_tablero": 0.59,
+  "Ancho_rectangulo_intero_tablero": 0.45
+},
+{
+  "_id": {
+    "$oid": "663d88195985a95a972f864e"
+  },
+  "Circunferencia_balon": 0.72,
+  "Peso": 567,
+  "Presion": 7.1
+},
+{
+  "_id": {
+    "$oid": "663fe8afcd6b5e79f99811ec"
+  },
+  "Jugadores_Cancha": 10,
+  "Arbitros_cancha": 2,
+  "Arbitros_extra": 2
+},
+{
+  "_id": {
+    "$oid": "66400d33e4e5da6fab0de4a5"
+  },
+  "PuntosxVictoria": 2,
+  "PuntosxDerrota": 0
+},
+{
+  "_id": {
+    "$oid": "66400dd6e4e5da6fab0de4ab"
+  },
+  "Duracion_Partido": "4 Cuartos",
+  "Caso_Empate": "Se juega cuarto adicional",
+  "Duracion_Cuarto": "12 Minutos"
+}]

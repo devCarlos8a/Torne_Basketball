@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "663b57adb7c41c6a662b19f3"
+  },
+  "id_jugador": "",
+  "nombre_jugador": "",
+  "estatura": "",
+  "edad": "",
+  "perfil_dominante": "",
+  "posicion_campo": ""
+},
+{
+  "_id": {
+    "$oid": "663d89315985a95a972f8651"
+  },
+  "Nombre_arbitro": "",
+  "Edad": "",
+  "Color_uniforme_arbitral": {
+    "Camisa": "Blanco y Negro",
+    "Pantalon": "Negro"
+  }
+},
+{
+  "_id": {
+    "$oid": "663fec1ecd6b5e79f99811ed"
+  },
+  "id_jugardor": 1065823211,
+  "nombre_jugador": "Carlos_Ochoa",
+  "Estatura": 1.65,
+  "edad": 28,
+  "perfil_dominante": "Diestro",
+  "posicion_campo": "Armador"
+},
+{
+  "_id": {
+    "$oid": "6640002ecd6b5e79f99811ef"
+  },
+  "id_jugardor": 1003314981,
+  "nombre_jugador": "Juan_Ochoa",
+  "Estatura": 1.6,
+  "edad": 23,
+  "perfil_dominante": "Zurdo",
+  "posicion_campo": "Alero"
+},
+{
+  "_id": {
+    "$oid": "6640008dcd6b5e79f99811f0"
+  },
+  "Nombre_arbitro": "Wayne Grudem",
+  "Edad": 44,
+  "Color_uniforme_arbitral": {
+    "Camisa": "Blanco y Negro",
+    "Pantalon": "Negro"
+  }
+},
+{
+  "_id": {
+    "$oid": "664000a8cd6b5e79f99811f1"
+  },
+  "Nombre_arbitro": "Paul Daniels",
+  "Edad": 42,
+  "Color_uniforme_arbitral": {
+    "Camisa": "Blanco y Negro",
+    "Pantalon": "Negro"
+  }
+},
+{
+  "_id": {
+    "$oid": "664000c8cd6b5e79f99811f2"
+  },
+  "Nombre_arbitro": "William Shakespeare",
+  "Edad": 37,
+  "Color_uniforme_arbitral": {
+    "Camisa": "Blanco y Negro",
+    "Pantalon": "Negro"
+  }
+}]

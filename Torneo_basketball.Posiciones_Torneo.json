@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "66400210e4e5da6fab0de490"
+  },
+  "Fase_grupos": {
+    "Conferencia": [
+      "Zona Salud",
+      "Zona Ingenieria"
+    ]
+  },
+  "PxG": 2,
+  "PxP": 0
+},
+{
+  "_id": {
+    "$oid": "66400ab9e4e5da6fab0de495"
+  },
+  "Tablas_ZonaIngenieria": {
+    "Software_Team": {
+      "Victorias": 3,
+      "Derrotas": 1,
+      "Puntos": 6
+    },
+    "Sistemas_Team": {
+      "Victorias": 2,
+      "Derrotas": 2,
+      "Puntos": 4
+    },
+    "DataScience_Team": {
+      "Victorias": 2,
+      "Derrotas": 2,
+      "Puntos": 4
+    },
+    "Logistica_Team": {
+      "Victorias": 1,
+      "Derrotas": 3,
+      "Puntos": 2
+    },
+    "Industrial_Team": {
+      "Victorias": 1,
+      "Derrotas": 3,
+      "Puntos": 2
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66400b94e4e5da6fab0de497"
+  },
+  "Tablas_ZonaSalud": {
+    "AuxEnfermeria": {
+      "Victorias": 2,
+      "Derrotas": 2,
+      "Puntos": 4
+    },
+    "AdminSalud_Team": {
+      "Victorias": 4,
+      "Derrotas": 0,
+      "Puntos": 8
+    },
+    "SST_Team": {
+      "Victorias": 3,
+      "Derrotas": 1,
+      "Puntos": 6
+    },
+    "Fonoaudiologia_Team": {
+      "Victorias": 2,
+      "Derrotas": 2,
+      "Puntos": 4
+    },
+    "Fisioterapia_Team": {
+      "Victorias": 0,
+      "Derrotas": 4,
+      "Puntos": 0
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66400c84e4e5da6fab0de49d"
+  },
+  "Final_Torneo": {
+    "Software_Team": {
+      "Victorias": 2,
+      "Derrotas": 1,
+      "Puntos": 4
+    },
+    "AdminSalud_Team": {
+      "Victorias": 1,
+      "Derrotas": 2,
+      "Puntos": 2
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66400cf3e4e5da6fab0de49f"
+  },
+  "Software_Team": "Campeon",
+  "Recompensas": "25% Dcto Matricula"
+}]

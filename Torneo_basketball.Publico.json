@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66400eb4e4e5da6fab0de4af"
+  },
+  "Nombre": "Juan",
+  "Telefono": "55252",
+  "EsIBERO": true
+},
+{
+  "_id": {
+    "$oid": "66400ec1e4e5da6fab0de4b1"
+  },
+  "Nombre": "Pedro",
+  "Telefono": "55254",
+  "EsIBERO": true
+},
+{
+  "_id": {
+    "$oid": "66400ed7e4e5da6fab0de4b3"
+  },
+  "Nombre": "Mateo",
+  "Telefono": "145244",
+  "EsIBERO": true
+},
+{
+  "_id": {
+    "$oid": "66400ee1e4e5da6fab0de4b5"
+  },
+  "Nombre": "Santiago",
+  "Telefono": "55252",
+  "EsIBERO": true
+},
+{
+  "_id": {
+    "$oid": "66400ef4e4e5da6fab0de4b7"
+  },
+  "Nombre": "Pablo",
+  "Telefono": "21234",
+  "EsIBERO": false
+}]

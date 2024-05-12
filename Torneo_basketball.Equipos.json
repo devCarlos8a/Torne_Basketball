@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "663b5527b7c41c6a662b19e7"
+  },
+  "id_equipo": "Software_Team",
+  "color_Indumentaria": {
+    "color_camiseta": "Rojo",
+    "color_pantaloneta": "Rojo"
+  },
+  "division": "Ingenieria"
+},
+{
+  "_id": {
+    "$oid": "663b5527b7c41c6a662b19e8"
+  },
+  "id_equipo": "Sistemas_Team",
+  "color_Indumentaria": {
+    "color_camiseta": "Azul y Blanco",
+    "color_pantaloneta": "Azul"
+  },
+  "division": "Ingenieria"
+},
+{
+  "_id": {
+    "$oid": "663b5527b7c41c6a662b19e9"
+  },
+  "id_equipo": "Logistica_Team",
+  "color_Indumentaria": {
+    "color_camiseta": "Amarillo",
+    "color_pantaloneta": "Negro"
+  },
+  "division": "Ingenieria"
+},
+{
+  "_id": {
+    "$oid": "663b5527b7c41c6a662b19ea"
+  },
+  "id_equipo": "Industrial_Team",
+  "color_Indumentaria": {
+    "color_camiseta": "Verde",
+    "color_pantaloneta": "Verde"
+  },
+  "division": "Ingenieria"
+},
+{
+  "_id": {
+    "$oid": "663b5527b7c41c6a662b19eb"
+  },
+  "id_equipo": "DataScience_Team",
+  "color_Indumentaria": {
+    "color_camiseta": "Vinotinto",
+    "color_pantaloneta": "Vinotinto"
+  },
+  "division": "Ingenieria"
+},
+{
+  "_id": {
+    "$oid": "663b5527b7c41c6a662b19ec"
+  },
+  "id_equipo": "AuxEnfermeria_Team",
+  "color_Indumentaria": {
+    "color_camiseta": "Blanco",
+    "color_pantaloneta": "Blanco"
+  },
+  "division": "Salud"
+},
+{
+  "_id": {
+    "$oid": "663b5527b7c41c6a662b19ed"
+  },
+  "id_equipo": "AdminSalud_Team",
+  "color_Indumentaria": {
+    "color_camiseta": "Morado",
+    "color_pantaloneta": "Morado"
+  },
+  "division": "Salud"
+},
+{
+  "_id": {
+    "$oid": "663b5527b7c41c6a662b19ee"
+  },
+  "id_equipo": "Fisioterapia_Team",
+  "color_Indumentaria": {
+    "color_camiseta": "Negro",
+    "color_pantaloneta": "Negro"
+  },
+  "division": "Salud"
+},
+{
+  "_id": {
+    "$oid": "663b5527b7c41c6a662b19ef"
+  },
+  "id_equipo": "Fonoaudiologia_Team",
+  "color_Indumentaria": {
+    "color_camiseta": "Gris",
+    "color_pantaloneta": "Gris"
+  },
+  "division": "Salud"
+},
+{
+  "_id": {
+    "$oid": "663b5527b7c41c6a662b19f0"
+  },
+  "id_equipo": "SST_Team",
+  "color_Indumentaria": {
+    "color_camiseta": "Anaranjado",
+    "color_pantaloneta": "Anaranjado"
+  },
+  "division": "Salud"
+}]
